@@ -19,24 +19,22 @@ Para iniciar o projeto basta executar ‘mvn spring-boot:run’ na raiz. A API e
 
 ## Serviços e funcionalidades a serem testadas
 
-Manter usuário;
-Campos: nome, login e senha;
-Manter funcionário;
-Nome completo, matrícula, ocupação e setor;
+ - Manter usuário (Campos: nome, login e senha);
+ - Manter funcionário (Campos: nome completo, matrícula, ocupação e setor);
 
 ## Regras específicas:
 
-Todas as deleções deverão ser são lógicas gerenciados por uma flag no código.
-A senha será armazenada como um Hash;
+ - Todas as deleções são lógicas gerenciados por uma flag no código.
+ - A senha será armazenada como um Hash;
 
 ## Tecnologias para os testes:
 
-Java 8+;
-Maven 3.3+;
-Junit 5 e Rest assured (ou outros frameworks para automação);
+ - Java 8+;
+ - Maven 3.3+;
+ - Junit 5 e Rest assured (ou outros frameworks para automação);
 
 ## Instruções
 
-Após o envio do desafio você terá 3 dias para desenvolver. Seja criativo! Utilize as ferramentas e frameworks ao seu favor.
-Atualize o README.MD do projeto e detalhe as etapas para que os testes sejam executados.
-Após finalizado envie o projeto zipado para o e-mail dangellys@vsoft.com.
+1. Após o envio do desafio você terá 3 dias para desenvolver. Seja criativo! Utilize as ferramentas e frameworks ao seu favor.
+2. Atualize o README.MD do projeto e detalhe as etapas para que os testes sejam executados.
+3. Após finalizado envie o projeto zipado para o e-mail dangellys@vsoft.com.
