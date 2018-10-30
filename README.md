@@ -6,7 +6,7 @@ Olá! Temos uma oportunidade para testador pleno na Novio e gostaríamos que voc
 
 ## Detalhamento do desafio
 
-O desafio será focado em criar testes de aceitação e de integração para o sistema ManterFuncionarios. Os testes de aceitação deverão ser automatizados e integrados ao build do projeto. Propositalmente o projeto tem erros que devem ser cobertos nos testes demonstrando quais cenários apresentam as falhas.
+O desafio será focado em criar testes de aceitação e de integração para o sistema ManterFuncionarios. Propositalmente o projeto tem erros que devem ser cobertos nos testes demonstrando quais cenários apresentam as falhas.
 
 ## Pré-requisitos para executar o projeto e logar no sistema
 
@@ -37,4 +37,4 @@ Para iniciar o projeto basta executar ‘mvn spring-boot:run’ na raiz. A API e
 
 1. Após o envio do desafio você terá 3 dias para desenvolver. Seja criativo! Utilize as ferramentas e frameworks ao seu favor.
 2. Atualize o README.MD do projeto e detalhe as etapas para que os testes sejam executados.
-3. Após finalizado envie o projeto zipado para o e-mail dangellys@vsoft.com.
+3. Após finalizado envie o projeto zipado para o e-mail dangellys@novio.com.br.
