@@ -6,13 +6,13 @@ Olá! Temos uma oportunidade para testador pleno na Novio e gostaríamos que voc
 
 ## Detalhamento do desafio
 
-O desafio será focado em criar testes de aceitação e de integração para o sistema ManterFuncionarios. Propositalmente o projeto tem erros que devem ser cobertos nos testes demonstrando quais cenários apresentam as falhas.
+O desafio será focado em criar testes de aceitação e de integração para o sistema ManterFuncionarios. Os testes de aceitação deverão ser automatizados e integrados ao build do projeto. Propositalmente o projeto tem erros que devem ser cobertos nos testes demonstrando quais cenários apresentam as falhas.
 
 ## Pré-requisitos para executar o projeto e logar no sistema
 
-JDK 8+;
-Maven 3.3+;
-Dependências já estão declaradas no pom.xml (Driver H2, Spring Boot, Swagger)
+ - JDK 8+;
+ - Maven 3.3+;
+ - Dependências já estão declaradas no pom.xml (Driver H2, Spring Boot, Swagger)
 
 O banco de dados é o h2, portanto não será necessário baixar e configurar um banco (Verificar o application.yml para mais detalhes).
 Para iniciar o projeto basta executar ‘mvn spring-boot:run’ na raiz. A API está disponível através do ‘localhost:8080’.
